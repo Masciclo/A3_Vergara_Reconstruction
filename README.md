@@ -1,4 +1,6 @@
-###Group members<br>
+## Assignment nº3
+
+### Group members<br>
 
 **Emil Holub** - 6550940 <br>
 **Jaime Vergara** - 6462421 <br>
@@ -14,6 +16,7 @@ https://drive.google.com/file/d/1heciWDqp8OOJqaObb2QcL3ThC9niA-V4/view?usp=drive
 https://drive.google.com/drive/folders/1Wth0wFtMvo5WYw3dNb6Km7rwb4nq6bk-?usp=drive_link
 
 ### 4 Polygonal surfaces reconstructions
+https://drive.google.com/drive/folders/1k03PenUrcgYdb5KApnFyWh8QVlH3j_HQ?usp=drive_link
 
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/851236c8-b197-4bec-a3fe-e763f63fb24b" />
 
